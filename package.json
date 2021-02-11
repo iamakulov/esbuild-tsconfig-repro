@@ -1,0 +1,10 @@
+{
+  "name": "esbuild-tsconfig",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.8.44",
+    "typescript": "^4.1.5"
+  }
+}
